@@ -2,7 +2,7 @@
 /**
  * Plugin Name: MorrisFed Members Sitemap
  * Version: 0.0.1
- * Plugin URI: https://www.morrisfed.org.uk/
+ * Plugin URI: https://github.com/morrisfed/mf-members-sitemap
  * Description: Generates sitemap entries for the TeamFinder pages related to Morris Federation members.
  * Author: Daniel Watford
  * Author URI: https://watfordconsulting.com
